@@ -12,7 +12,7 @@
 ## About the project
 Mapty App - Built with Vanilla Javascript and by using Leaflet library.<br>
 Its structure is built with OOP using classes and objects.<br>
-This website is used to see all of your workout's places on map and some details about workout like distance covered,duration,cadence,speed,pace,elevation gain.<br>
+This website is use to see all of your workout's places on map and some details about workout like distance covered,duration,cadence,speed,pace,elevation gain.<br>
 
 ## Screenshot 
 ![screenshot](mapty-preview.png)
